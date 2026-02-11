@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens AI",
+  "description": "Uma plataforma avançada de análise nutricional que utiliza IA para identificar alimentos, calcular macros, detectar alérgenos e fornecer insights detalhados sobre saúde a partir de fotos ou texto.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
